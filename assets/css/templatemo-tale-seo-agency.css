@@ -362,6 +362,10 @@ Header Style
   transition: all 0.3s ease 0s;
 }
 
+.header-area .main-nav .logo img {
+  border-radius: 50%;
+}
+
 .background-header .main-nav .logo {
   margin-top: 10px;
 }
@@ -1132,27 +1136,27 @@ Infos Style
 }
 
 .infos .main-content .marketing .fill {
-  width: 90%;
-}
-
-.infos .main-content .digital .fill {
-  width: 80%;
-}
-
-.infos .main-content .media .fill {
   width: 95%;
 }
 
+.infos .main-content .digital .fill {
+  width: 98%;
+}
+
+.infos .main-content .media .fill {
+  width: 92%;
+}
+
 .infos .main-content .marketing span {
-  right: 10%;
+  right: 5%;
 }
 
 .infos .main-content .digital span {
-  right: 20%;
+  right: 2%;
 }
 
 .infos .main-content .media span {
-  right: 5%;
+  right: 8%;
 }
 
 .infos .main-content p.more-info {
@@ -1467,27 +1471,27 @@ Infos Style
 }
 
 .video-info .marketing .fill {
-  width: 90%;
-}
-
-.video-info .digital .fill {
-  width: 80%;
-}
-
-.video-info .media .fill {
   width: 95%;
 }
 
+.video-info .digital .fill {
+  width: 90%;
+}
+
+.video-info .media .fill {
+  width: 92%;
+}
+
 .video-info .marketing span {
-  right: 10%;
+  right: 5%;
 }
 
 .video-info .digital span {
-  right: 20%;
+  right: 10%;
 }
 
 .video-info .media span {
-  right: 5%;
+  right: 8%;
 }
 
 /*
