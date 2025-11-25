@@ -1900,6 +1900,9 @@ body {
 }
 
 @media (max-width: 992px) {
+  .services::after {
+    z-index: -2;
+  }
   .pre-header .left-info ul li {
     padding-right: 10px;
     margin-right: 10px;
