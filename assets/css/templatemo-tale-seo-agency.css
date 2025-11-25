@@ -176,7 +176,7 @@ body {
 
 .section {
   padding-top: 30px;
-  margin-top: 90px;
+  margin-top: 45px;
 }
 
 
@@ -910,6 +910,8 @@ Services Style
 .services {
   position: relative;
   overflow: hidden;
+  margin-top: 0;
+  padding-top: 0;
 }
 
 .services .section-heading h2 {
@@ -1074,7 +1076,7 @@ Infos Style
   background-size: cover;
   background-position: center center;
   padding: 120px 0px;
-  margin-top: 120px;
+  margin-top: 60px;
 }
 
 .infos .main-content {
@@ -1870,7 +1872,7 @@ body {
     display: none;
   }
   .main-banner  {
-    padding: 185px 0px;
+    padding: 185px 0px 100px 0px;
   }
   .main-banner h4 {
     font-size: 36px;
@@ -1882,6 +1884,20 @@ body {
   .main-banner .main-button a,
   .main-banner .second-button a {
     padding: 12px 20px;
+  }
+  .projects {
+    margin-top: 0;
+  }
+  .infos {
+    margin-top: 0;
+    padding: 30px 0px;
+  }
+  .contact-us {
+    margin-top: 0;
+  }
+  .services::before,
+  .services::after {
+    display: none;
   }
   .projects .item .down-content {
     padding: 25px 15px 15px 15px;
