@@ -532,6 +532,51 @@ Header Style
   transition-delay: 0s, 0s, 0.3s;
 }
 
+/* Language Selector Styles */
+.header-area .main-nav .nav li.lang-selector {
+  display: flex;
+  align-items: center;
+  padding-left: 15px;
+  margin-left: 10px;
+  border-left: 1px solid rgba(255,255,255,0.3);
+}
+
+.header-area .main-nav .nav li.lang-selector .lang-btn {
+  color: rgba(255,255,255,0.7);
+  font-size: 14px;
+  font-weight: 500;
+  padding: 5px 8px;
+  text-decoration: none;
+  transition: all 0.3s ease;
+}
+
+.header-area .main-nav .nav li.lang-selector .lang-btn:hover,
+.header-area .main-nav .nav li.lang-selector .lang-btn.active {
+  color: #fff;
+}
+
+.header-area .main-nav .nav li.lang-selector .lang-divider {
+  color: rgba(255,255,255,0.5);
+  font-size: 14px;
+}
+
+.background-header .main-nav .nav li.lang-selector {
+  border-left: 1px solid rgba(30,58,138,0.3);
+}
+
+.background-header .main-nav .nav li.lang-selector .lang-btn {
+  color: rgba(30,58,138,0.7);
+}
+
+.background-header .main-nav .nav li.lang-selector .lang-btn:hover,
+.background-header .main-nav .nav li.lang-selector .lang-btn.active {
+  color: #1e3a8a;
+}
+
+.background-header .main-nav .nav li.lang-selector .lang-divider {
+  color: rgba(30,58,138,0.5);
+}
+
 .header-area .main-nav .menu-trigger {
   cursor: pointer;
   position: absolute;
