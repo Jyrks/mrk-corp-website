@@ -780,6 +780,29 @@ Header Style
     background: #eee !important;
     color: #1e3a8a!important;
   }
+  /* Mobile language selector */
+  .header-area .main-nav .nav li.lang-selector {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    padding: 10px 0 !important;
+    border-left: none;
+    margin-left: 0;
+  }
+  .header-area .main-nav .nav li.lang-selector .lang-btn {
+    color: #191a20 !important;
+    background: transparent !important;
+    height: auto !important;
+    line-height: normal !important;
+    padding: 10px 15px !important;
+  }
+  .header-area .main-nav .nav li.lang-selector .lang-btn.active {
+    color: #1e3a8a !important;
+    font-weight: 600;
+  }
+  .header-area .main-nav .nav li.lang-selector .lang-divider {
+    color: #999;
+  }
   .header-area .main-nav .nav li.has-sub ul.sub-menu {
     position: relative;
     visibility: inherit;
@@ -1928,6 +1951,9 @@ body {
   .main-banner h4 {
     font-size: 36px;
     line-height: 44px;
+    word-wrap: break-word;
+    overflow-wrap: break-word;
+    hyphens: auto;
   }
   .main-banner span {
     margin: 0px 3px 0px 3px;

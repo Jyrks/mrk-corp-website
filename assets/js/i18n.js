@@ -67,8 +67,8 @@ const translations = {
     "nav.contact": "Kontakt",
 
     // Hero Section
-    "hero.subtitle": "SCHIFFBAU & INDUSTRIEDIENSTLEISTUNGEN",
-    "hero.title": "Kompletter <em>Schiffbau</em> & <span>Industriedienstleistungen</span>",
+    "hero.subtitle": "SCHIFFBAU & INDUSTRIEBAU",
+    "hero.title": "Kompletter <em>Schiffbau</em> & <span>Industriebau</span>",
     "hero.description": "Europäisches Team für Schiffbau, Refit, Retrofit und Schwerindustrieprojekte mit Präzision, Zuverlässigkeit und strenger Qualitätskontrolle.",
     "hero.services_btn": "Unsere Leistungen",
     "hero.or": "oder",
