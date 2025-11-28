@@ -1284,6 +1284,12 @@ Contact Style
   margin-bottom: 15px;
 }
 
+.contact-us-content .more-info h4 {
+  color: #fff;
+  font-size: 16px;
+  font-weight: 400;
+}
+
 .contact-us-content .more-info h4 a {
   color: #fff;
   font-size: 16px;
