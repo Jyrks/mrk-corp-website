@@ -14,7 +14,7 @@ MRK Corp is an international shipbuilding and industrial contracting company del
 
 ## Contact Information
 
-- **Email:** business@mrkcorp.com
+- **Email:** business@mrkcorp.io
 - **Phone (Estonia):** +372 552 4910
 - **Phone (USA):** +1 786 893 3767
 - **Location:** Tallinn, Estonia
@@ -47,7 +47,7 @@ See **[FORMSPREE_SETUP.md](FORMSPREE_SETUP.md)** for detailed setup instructions
 
 Quick steps:
 1. Sign up at [formspree.io](https://formspree.io) (free)
-2. Create a new form for business@mrkcorp.com
+2. Create a new form for business@mrkcorp.io
 3. Copy your Form ID
 4. Replace `YOUR_FORM_ID` in index.html (line 282) with your actual Form ID
 5. Upload website and test the form
