@@ -1364,7 +1364,15 @@ Contact Style
   font-weight: 400;
 }
 
-/* 
+.contact-us-content .more-info h4.flags img {
+  width: 24px;
+  height: auto;
+  margin: 0 5px;
+  border-radius: 2px;
+  vertical-align: middle;
+}
+
+/*
 ---------------------------------------------
 Footer Style
 --------------------------------------------- 
