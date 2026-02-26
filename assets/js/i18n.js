@@ -27,11 +27,12 @@ const translations = {
     // Projects Section
     "projects.title": "Selected <em>Projects</em> & <span>Experience</span>",
     "projects.description": "Delivering excellence across Europe and the USA with teams from 30 to 150 specialists.",
-    "projects.disney": "Disney Adventure - Meyer Werft, Germany",
+    "projects.disney": "Disney Adventure - Meyer Werft Wismar, Germany",
     "projects.fincantieri": "Fincantieri Marine Repair - USA, Florida",
     "projects.vigor": "Vigor Marine Group - USA, Florida",
     "projects.heavy": "Heavy Industry - Welding Factory, Estonia",
     "projects.teknikum": "Teknikum Group - Polymer Factory, Finland",
+    "projects.papenburg": "Shipbuilding & Welding - Meyer Werft Papenburg, Germany",
 
     // About Section
     "about.title": "Who <em>We Are</em> & What <span>We Deliver</span>",
@@ -85,11 +86,12 @@ const translations = {
     // Projects Section
     "projects.title": "Ausgewählte <em>Projekte</em> & <span>Erfahrung</span>",
     "projects.description": "Exzellenz in Europa und den USA mit Teams von 30 bis 150 Spezialisten.",
-    "projects.disney": "Disney Adventure - Meyer Werft, Deutschland",
+    "projects.disney": "Disney Adventure - Meyer Werft Wismar, Deutschland",
     "projects.fincantieri": "Fincantieri Marine Repair - USA, Florida",
     "projects.vigor": "Vigor Marine Group - USA, Florida",
     "projects.heavy": "Schwerindustrie - Schweißwerk, Estland",
     "projects.teknikum": "Teknikum Group - Polymerfabrik, Finnland",
+    "projects.papenburg": "Schiffbau & Schweißen - Meyer Werft Papenburg, Deutschland",
 
     // About Section
     "about.title": "Wer <em>Wir Sind</em> & Was <span>Wir Liefern</span>",
