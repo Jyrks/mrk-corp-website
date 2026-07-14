@@ -33,6 +33,7 @@ const translations = {
     "projects.heavy": "Heavy Industry - Welding Factory, Estonia",
     "projects.teknikum": "Teknikum Group - Polymer Factory, Finland",
     "projects.papenburg": "Shipbuilding & Welding - Meyer Werft Papenburg, Germany",
+    "projects.dirks": "Dirks Group - Welding & Assembling Works at Papenburg Marine Yard, Germany",
 
     // About Section
     "about.title": "Who <em>We Are</em> & What <span>We Deliver</span>",
@@ -50,9 +51,8 @@ const translations = {
     "contact.subject_placeholder": "Subject...",
     "contact.message_placeholder": "Your Message",
     "contact.submit_btn": "Send Message Now",
-    "contact.europe_title": "Projects in Europe",
+    "contact.europe_title": "Project and Inquiries",
     "contact.europe_director": "Mark Shchegolev - Director",
-    "contact.us_title": "Projects in US",
     "contact.location": "Tallinn, Estonia",
 
     // Footer
@@ -92,6 +92,7 @@ const translations = {
     "projects.heavy": "Schwerindustrie - Schweißwerk, Estland",
     "projects.teknikum": "Teknikum Group - Polymerfabrik, Finnland",
     "projects.papenburg": "Schiffbau & Schweißen - Meyer Werft Papenburg, Deutschland",
+    "projects.dirks": "Dirks Group - Schweiß- & Montagearbeiten am Papenburg Marine Yard, Deutschland",
 
     // About Section
     "about.title": "Wer <em>Wir Sind</em> & Was <span>Wir Liefern</span>",
@@ -109,9 +110,8 @@ const translations = {
     "contact.subject_placeholder": "Betreff...",
     "contact.message_placeholder": "Ihre Nachricht",
     "contact.submit_btn": "Nachricht senden",
-    "contact.europe_title": "Projekte in Europa",
+    "contact.europe_title": "Projekt und Anfragen",
     "contact.europe_director": "Mark Shchegolev - Direktor",
-    "contact.us_title": "Projekte in den USA",
     "contact.location": "Tallinn, Estland",
 
     // Footer
