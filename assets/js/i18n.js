@@ -56,7 +56,7 @@ const translations = {
     "contact.location": "Tallinn, Estonia",
 
     // Footer
-    "footer.copyright": "Copyright © 2025 <a href=\"#\">MRK Corp OÜ</a>. All rights reserved."
+    "footer.copyright": "Copyright © 2025 <a href=\"#\">MRK CORP OÜ</a>. All rights reserved."
   },
 
   de: {
@@ -115,7 +115,7 @@ const translations = {
     "contact.location": "Tallinn, Estland",
 
     // Footer
-    "footer.copyright": "Copyright © 2025 <a href=\"#\">MRK Corp OÜ</a>. Alle Rechte vorbehalten."
+    "footer.copyright": "Copyright © 2025 <a href=\"#\">MRK CORP OÜ</a>. Alle Rechte vorbehalten."
   }
 };
 
