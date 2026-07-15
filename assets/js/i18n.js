@@ -51,7 +51,7 @@ const translations = {
     "contact.subject_placeholder": "Subject...",
     "contact.message_placeholder": "Your Message",
     "contact.submit_btn": "Send Message Now",
-    "contact.europe_title": "Project and Inquiries",
+    "contact.europe_title": "Projects and Inquiries",
     "contact.europe_director": "Mark Shchegolev - Director",
     "contact.location": "Tallinn, Estonia",
 
@@ -110,7 +110,7 @@ const translations = {
     "contact.subject_placeholder": "Betreff...",
     "contact.message_placeholder": "Ihre Nachricht",
     "contact.submit_btn": "Nachricht senden",
-    "contact.europe_title": "Projekt und Anfragen",
+    "contact.europe_title": "Projekte und Anfragen",
     "contact.europe_director": "Mark Shchegolev - Direktor",
     "contact.location": "Tallinn, Estland",
 
