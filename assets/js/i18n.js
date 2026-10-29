@@ -27,13 +27,12 @@ const translations = {
     // Projects Section
     "projects.title": "Selected <em>Projects</em> & <span>Experience</span>",
     "projects.description": "Delivering excellence across Europe and the USA with teams from 30 to 150 specialists.",
-    "projects.disney": "Disney Adventure - Meyer Werft Wismar, Germany",
+    "projects.disney": "Disney Adventure - Wismar, Germany",
     "projects.fincantieri": "Fincantieri Marine Repair - USA, Florida",
     "projects.vigor": "Vigor Marine Group - USA, Florida",
     "projects.heavy": "Heavy Industry - Welding Factory, Estonia",
     "projects.teknikum": "Teknikum Group - Polymer Factory, Finland",
-    "projects.papenburg": "Shipbuilding & Welding - Meyer Werft Papenburg, Germany",
-    "projects.dirks": "Dirks Group - Welding & Assembling Works at Papenburg Marine Yard, Germany",
+    "projects.papenburg": "Shipbuilding & Welding - Papenburg, Germany",
 
     // About Section
     "about.title": "Who <em>We Are</em> & What <span>We Deliver</span>",
@@ -86,13 +85,12 @@ const translations = {
     // Projects Section
     "projects.title": "Ausgewählte <em>Projekte</em> & <span>Erfahrung</span>",
     "projects.description": "Exzellenz in Europa und den USA mit Teams von 30 bis 150 Spezialisten.",
-    "projects.disney": "Disney Adventure - Meyer Werft Wismar, Deutschland",
+    "projects.disney": "Disney Adventure - Wismar, Deutschland",
     "projects.fincantieri": "Fincantieri Marine Repair - USA, Florida",
     "projects.vigor": "Vigor Marine Group - USA, Florida",
     "projects.heavy": "Schwerindustrie - Schweißwerk, Estland",
     "projects.teknikum": "Teknikum Group - Polymerfabrik, Finnland",
-    "projects.papenburg": "Schiffbau & Schweißen - Meyer Werft Papenburg, Deutschland",
-    "projects.dirks": "Dirks Group - Schweiß- & Montagearbeiten am Papenburg Marine Yard, Deutschland",
+    "projects.papenburg": "Schiffbau & Schweißen - Papenburg, Deutschland",
 
     // About Section
     "about.title": "Wer <em>Wir Sind</em> & Was <span>Wir Liefern</span>",
